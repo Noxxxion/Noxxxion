@@ -2,8 +2,9 @@
 
 <p align="center">I'm Benjamin, a Fullstack Developer based in Cologne Germany. <br>
   My goal is to continuously deepen my skills, both in the short and long term, and share my knowledge with the community.</p>
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=noxxxion" alt="noxxxion" /></a> </p>
+  
+<h2>🏆 Github Profile Trophies</h2>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=noxxxion&theme=kimbie_dark&margin-w=15&no-frame=true" alt="noxxxion" /></a> </p>
 
 <h2>🚀 Projects</h2>
 <ul>
