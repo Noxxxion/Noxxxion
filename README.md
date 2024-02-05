@@ -8,6 +8,7 @@
 
 <h2>🚀 Projects</h2>
 <ul>
+    <li><a href="https://github.com/Noxxxion/Arcade">Classic Arcade Games</a>: A reproduction of Classic Arcade Games as a hobby Project.</li>
 </ul>
 
 <h2>🌱 Goals</h2>
@@ -67,7 +68,6 @@
 <p align="left">
   <a href="https://opencv.org/" target="_blank" rel="noreferrer" title="OpenCV"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/></a>
 </p>
-
 
 
 
